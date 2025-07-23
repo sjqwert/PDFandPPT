@@ -1,0 +1,16 @@
+{
+    "include": [
+        "."
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/.venv",
+        "**/venv",
+        "**/.mypy_cache"
+    ],
+    "reportMissingImports": false,
+    "reportMissingTypeStubs": false,
+    "pythonVersion": "3.7",
+    "typeCheckingMode": "basic"
+} 

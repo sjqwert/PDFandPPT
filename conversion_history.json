@@ -1,0 +1,14 @@
+[
+  {
+    "input_file": "/Users/mac/Downloads/关于举办医学文献信息检索培训班的通知_20250624153925.pdf",
+    "output_file": "/Users/mac/Desktop/关于举办医学文献信息检索培训班的通知_20250624153925.pptx",
+    "method": "pdf2pptx",
+    "timestamp": "2025-07-23T14:09:13.704357"
+  },
+  {
+    "input_file": "/Users/mac/Downloads/中医科“护理质量改善项目”书 - Google 文档.pdf",
+    "output_file": "/Users/mac/Desktop/中医科“护理质量改善项目”书 - Google 文档.pptx",
+    "method": "pdf2pptx",
+    "timestamp": "2025-07-23T14:09:18.476600"
+  }
+]
